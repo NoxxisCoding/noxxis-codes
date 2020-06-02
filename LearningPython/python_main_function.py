@@ -15,7 +15,7 @@ def main():
             "####################################################################################################################\n"+
             "####################################################################################################################\n")
         print("\t1 - Greetings Class\n")
-        print("\t1 - Insertion Sort Using Array")
+        print("\t2 - Insertion Sort Using Array")
         print("\n\n")
         classNum = input("Enter the class number: ")
         try:
