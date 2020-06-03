@@ -1,6 +1,6 @@
 from Greetings import Greetings
 from InsertionSort import InsertionSort
-from os import system, name 
+from BinaryTree import BinaryTree
 
 def main():
     again = "y";
@@ -16,6 +16,7 @@ def main():
             "####################################################################################################################\n")
         print("\t1 - Greetings Class\n")
         print("\t2 - Insertion Sort Using Array")
+        print("\t3 - Binary Tree ")
         print("\n\n")
         classNum = input("Enter the class number: ")
         try:
